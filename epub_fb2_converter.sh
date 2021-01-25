@@ -1,0 +1,2 @@
+pandoc -f markdown+tex_math_dollars "Школьник — Абитуриент — Студент — Инженер.md" metadata.yaml -o "Школьник — Абитуриент — Студент — Инженер.epub"
+pandoc -f markdown+tex_math_dollars "Школьник — Абитуриент — Студент — Инженер.md" metadata.yaml -o "Школьник — Абитуриент — Студент — Инженер.fb2"
